@@ -12,7 +12,6 @@ A simple and powerful machine learning web application that predicts whether a p
 - **Frontend/UI**: Streamlit
 - **Data Handling**: NumPy, Pandas
 - **Model Saving**: Joblib
-- **Image Support**: Pillow
 - **Deployment**: Streamlit Cloud
 
 ---
